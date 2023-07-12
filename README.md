@@ -1,2 +1,5 @@
 # Python_Project_DB_GUI
 Project is to design and develop a standalone application a Quiz Generator system in Python for maintaining a bank of quiz questions for different subjects covered on different modules.
+
+
+The system should follow the specification below. Implementing the project will give you practical experience in ObjectOriented Programming (OOP) development. You are expected to design, implement and use your own classes that are relevant to the application. The specification provides less overview on how to do the project as you are expected to come up with and design the solution yourself. Your project development is the culmination of all what you have learnt about Python and OOP, and will showcase all your hard work for part one of this module. The system you develop should become a strong addition to your programming portfolio. You should aim to produce a system that is well-designed, robust and useful. The GUI design should be clean, and simple to navigate. The system should operate smoothly withoutsluggishness or crashes and should not require instructions or a manual to use.
